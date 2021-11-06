@@ -1,0 +1,31 @@
+/* Header Section */
+.header, .s2{
+background-color: #1F2937;
+color:white;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    display: flex;
+    justify-content: ;
+}
+
+.button
+
+
+/* Four Picture Section */
+
+
+/* Qoute Section */
+
+.container1{
+    display: flex;
+    background-color: grey;
+    padding:24px;
+
+}
+
+/* Footer Section */
+footer
